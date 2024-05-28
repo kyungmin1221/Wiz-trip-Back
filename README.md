@@ -12,7 +12,12 @@
 **🛠️ 언어 : Spring Boot** <br />
 
 
-## 개발 환경
+
+##  📝 서비스 아키텍처
+<img width="719" alt="스크린샷 2024-05-28 오후 2 18 31" src="https://github.com/kyungmin1221/Wiz-trip-Back/assets/105621255/5d2a8e5f-cd76-4f04-a554-2c2b28f82043">
+
+
+## 📎 개발 환경
 
 ## Stacks 
 
@@ -34,7 +39,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
 
-### GIT 브랜치 전략
+### 😎 GIT 브랜치 전략
 
 - Git-flow 전략을 기반으로 main, develop 브랜치와 feature 보조 브랜치를 운용했습니다.
 - main, develop, Feat 브랜치로 나누어 개발을 하였습니다.
