@@ -8,6 +8,7 @@
 
 ## 프로젝트 개요
 > **🤩 프로젝트 이름 : WIZ- TRIP** <br/>
+**🐳 배포주소 : https://wiz-trip.netlify.app/** <br/>
 **📆 개발기간: 2023.11 ~ 2024.01** <br/>
 **🛠️ 언어 : Spring Boot** <br />
 
